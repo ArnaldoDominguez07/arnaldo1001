@@ -1,0 +1,5 @@
+﻿# Archivos ignorados por Git
+*.zip
+*.bak
+Thumbs.db
+.DS_Store
